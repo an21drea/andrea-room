@@ -11,19 +11,5 @@ body {
     position: relative;
 }
 
-.artwork {
-    position: absolute;
-    width: 100px; /* Set the width of your artwork link */
-    height: 150px; /* Set the height of your artwork link */
-    background-color: transparent; /* Make the background transparent */
-    /* Adjust the positioning of your artwork link */
-}
 
-#artwork1 {
-    top: 50px;
-    left: 100px;
-    /* Adjust the top and left positions as needed */
-}
-
-/* Add styles for other artwork links if needed */
 
