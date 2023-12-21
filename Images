@@ -1,0 +1,4 @@
+cd /path/to/your/local/repository
+git add \Users\an21d\Downloads\maxresdefault.jpg
+git commit-m "Upload room image"
+git push origin main 
