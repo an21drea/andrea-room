@@ -4,7 +4,7 @@ body {
 }
 
 #room {
-    background-image: url('path/to/your/room/image.jpg');
+    background-image: url('andrea-room/maxresdefault.jpg');
     background-size: cover;
     width: 100vw;
     height: 100vh;
