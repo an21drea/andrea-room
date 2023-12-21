@@ -1,35 +1,29 @@
 body {
-    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    overflow: hidden;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
+#room {
+    background-image: url('path/to/your/room/image.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
 }
 
-nav {
-    background-color: #444;
-    color: #fff;
-    padding: 10px;
+.artwork {
+    position: absolute;
+    width: 100px; /* Set the width of your artwork link */
+    height: 150px; /* Set the height of your artwork link */
+    background-color: transparent; /* Make the background transparent */
+    /* Adjust the positioning of your artwork link */
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+#artwork1 {
+    top: 50px;
+    left: 100px;
+    /* Adjust the top and left positions as needed */
 }
 
-nav li {
-    display: inline;
-    margin-right: 20px;
-}
+/* Add styles for other artwork links if needed */
 
-section {
-    padding: 20px;
-}
-
-/* Customize your styles as needed */
